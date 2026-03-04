@@ -1,0 +1,11 @@
+date,category,revenue,orders,customers
+2026-03-01,Electronics,1200,24,20
+2026-03-01,Fashion,800,19,17
+2026-03-02,Electronics,1500,28,23
+2026-03-02,Home,600,14,12
+2026-03-03,Fashion,1100,25,22
+2026-03-03,Home,700,16,14
+2026-03-04,Electronics,1700,30,25
+2026-03-04,Fashion,900,20,18
+2026-03-05,Home,750,17,15
+2026-03-05,Electronics,1600,29,24
