@@ -1,0 +1,14 @@
+credentials:
+  usernames:
+    user:
+      name: User
+      password: $2b$12$Odcu8EfemuNtrMlPNwVpkeazHtZS3DuYCsnjtzbkYqXCQmD5gWbVi
+    manager:
+      name: Manager
+      password: $2b$12$AENMoX0aoUkABu9g3cWAY.NdRsyXOa1uzfo.lROyngHMaJL4/DRoe
+cookie:
+  name: company_killer_cookie
+  key: replace_with_long_random_key
+  expiry_days: 30
+preauthorized:
+  emails: []
